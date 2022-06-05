@@ -77,4 +77,3 @@ describe('index.js', function () {
     });
   });
 });
-
